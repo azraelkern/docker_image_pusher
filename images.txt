@@ -1,3 +1,6 @@
 mtphotos/mt-photos:latest
 mtphotos/mt-photos-ai:latest
 mtphotos/mt-photos-pg:latest
+hslr/sun-panel:latest
+gdy666/lucky:latest
+xhofe/alist
