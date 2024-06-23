@@ -1,9 +1,3 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-mtphotos/mt-photos
-mtphotos/mt-photos-ai
-mtphotos/mt-photos-pg
+mtphotos/mt-photos:latest
+mtphotos/mt-photos-ai:latest
+mtphotos/mt-photos-pg:latest
