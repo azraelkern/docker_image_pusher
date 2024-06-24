@@ -1,4 +1,3 @@
-hectorqin/reader
-lovechen/embyserver
+requark/wiki:latest
 a76yyyy/qiandao
-iyuucn/iyuuplus
+vaultwarden/server
