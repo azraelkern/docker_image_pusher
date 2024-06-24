@@ -1,3 +1,2 @@
-requark/wiki:latest
-a76yyyy/qiandao
+requarks/wiki:latest
 vaultwarden/server
