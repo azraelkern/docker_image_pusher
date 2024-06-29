@@ -1,1 +1,1 @@
-docker.io/nginx
+nastools/nas-tools
