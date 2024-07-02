@@ -1,1 +1,1 @@
-linuxserver/librespeed
+softethervpn/vpnserver:latest
