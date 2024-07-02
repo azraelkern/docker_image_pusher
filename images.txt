@@ -1,1 +1,1 @@
-softethervpn/vpnserver:latest
+softethervpn/vpnserver
