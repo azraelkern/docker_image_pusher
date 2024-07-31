@@ -1,1 +1,1 @@
-docker.io/chenzhaoyu94/chatgpt-web
+hslr/sun-panel
